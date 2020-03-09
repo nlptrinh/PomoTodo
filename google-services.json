@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745212572291",
+    "firebase_url": "https://pomotodo-ce910.firebaseio.com",
+    "project_id": "pomotodo-ce910",
+    "storage_bucket": "pomotodo-ce910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745212572291:android:329b293cf021d563f1e1b6",
+        "android_client_info": {
+          "package_name": "com.thehappylions.pomotodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745212572291-895nhidq5igpq09obamu9b9dmel4fuui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJzGGbXDtaTMyoNG-eV15EOFmgt1jrc0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745212572291-895nhidq5igpq09obamu9b9dmel4fuui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745212572291-fgpgde952g0n32aknrluav8tb4f42bve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thehappylions.pomotodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

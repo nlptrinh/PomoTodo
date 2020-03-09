@@ -20,3 +20,5 @@ It will generate a QR code on the console
 
 2. Go to Camera (with IPhone) and 'Scan QR code' (with Android), then capture the QR code after running the project on PC. The project will be launched on Expo app
 
+
+[![Watch the video]](https://drive.google.com/file/d/1x93rKOTlKCsO79ShH3DDXNkcz5beIkL0/view?usp=sharing)
